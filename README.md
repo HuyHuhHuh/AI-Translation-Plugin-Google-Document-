@@ -25,23 +25,23 @@ Phần hướng dẫn sẽ ở dư
 
 Sau khi tạo một 1 Document trong Google Doc, bạn hãy bấm:
 
-![Extension menu](https://i.imgur.com/nCj0IQN.jpg)
+![Extension menu](https://drive.google.com/uc?export=view&id=1GorVVeZoQon5xTh41FC3sG6qTx7X0rLs)
 
 Sau đó cài đặt phần source code tôi gửi, ngoài ra nếu muốn nhấn thêm file có thể bấm vào đây:
 
-![Add files](https://i.imgur.com/uJWlqjy.jpg)
+![Add files](https://drive.google.com/uc?export=view&id=1vE0W6s8rT6BKg6cNI_z-1veSMGsEA_oh)
 
 Kế tiếp hãy bấm **triển khai**, bạn chọn **tủy chọn triển khai mới:**
 
-![Deployment options](https://i.imgur.com/d5Qh1Tw.jpg)
+![Deployment options](https://drive.google.com/uc?export=view&id=1ilmTBcdCEQ8oaFDF3FQz-nwbAE0AiKBE)
 
 Chọn loại hình là **Ứng dụng Web**:
 
-![Web app selection](https://i.imgur.com/d5Qh1Tw.jpg)
+![Web app selection](https://drive.google.com/uc?export=view&id=1YxVU9oUQCND0sQy0_PWiJySQ9477lqwN)
 
 Cuối cùng chỉ cần bấm **triển khai** là xong:
 
-![Deploy button](https://i.imgur.com/5KYJ75j.jpg)
+![Deploy button](https://drive.google.com/uc?export=view&id=1pTe1iZ5YhVuVapN4Eaw9mWIPVxhVju3F)
 
 ## III. Hướng dẫn sử dụng
 
@@ -49,21 +49,21 @@ Cuối cùng chỉ cần bấm **triển khai** là xong:
 
 Khi vào Doc, bạn sẽ thấy plugin hiện ở thanh công cụ:
 
-![Plugin in toolbar](https://i.imgur.com/HzgTYI2.jpg)
+![Plugin in toolbar](https://drive.google.com/uc?export=view&id=11EzUpT9N0wxjBQPDWUTjmpq_oRfWyh5U)
 
 Bấm vào nó, bạn sẽ gặp thông báo sau:
 
-![Authorization message](https://i.imgur.com/GQ03rvS.jpg)
+![Authorization message](https://drive.google.com/uc?export=view&id=17PCGBBCu9nbw_Y8TP_t8YD3yVARszo75)
 
 Bấm Ok, sau đó đăng nhập bằng tài khoản Google bạn đang dùng. Khi hoàn tất việc đăng nhập, bạn sẽ gặp cảnh báo:
 
-![Warning message](https://i.imgur.com/n9jBQrS.jpg)
+![Warning message](https://drive.google.com/uc?export=view&id=1O-odiYe43ps4Do9Q9jraseARqKJUcj5d)
 
 Hãy bấm vào Đi tới AI Translation Plugin, sau đó bấm **Cho Phép**, thế là hoàn tất. Từ giờ bạn có thể dùng mọi lúc bạn muốn.
 
 ### b. Cách sử dụng
 
-![Usage instructions](https://i.imgur.com/5vZGbqr.jpg)
+![Usage instructions](https://drive.google.com/uc?export=view&id=1SwBtv8ZnsZ4fa9B4doRbvmI9l6GWI3qC)
 
 - **1: Ngôn ngữ bạn muốn dịch sang**
 - **2: Dịch một đoạn văn bản đã tô đen**
@@ -77,20 +77,19 @@ Hãy bấm vào Đi tới AI Translation Plugin, sau đó bấm **Cho Phép**, t
 
 **Trước**
 
-![Before translation example](https://i.imgur.com/2edhDwY.jpg)
+![Before translation example](https://drive.google.com/uc?export=view&id=1NBuLT2LBhbnbZ7VNx4RcvOVpOFC_dHaQ)
 
 **Sau**
 
-![After translation example](https://i.imgur.com/M7U7pQA.jpg)
+![After translation example](https://drive.google.com/uc?export=view&id=1h3OQZtMeJNwhGVX-cQV4oMp8XTjGp9tV)
 
 #### Dịch toàn bộ văn bản:
 
 **Trước**
 
-![Before full translation](https://i.imgur.com/lQ4wM7J.jpg)
+![Before full translation](https://drive.google.com/uc?export=view&id=1WGbVobr3EqQBiwynUs9I6fqCfJGGQLlt)
 
 **Sau**
 
-![After full translation](https://i.imgur.com/9A8LuSa.jpg)
+![After full translation](https://drive.google.com/uc?export=view&id=1Pw-t2uB4QkAwENchHzFNEu_2uOFaHfXT)
 
-![Full document translation](https://i.imgur.com/h3kOQGy.jpg)
