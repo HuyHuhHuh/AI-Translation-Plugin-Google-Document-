@@ -19,7 +19,7 @@ Có thể vào đường link sao để có thể test tính năng của add-in:
 
 [Google Document](https://docs.google.com/document/d/1FAzCk661hdXfR2xU648oQv6LYFZT0vxzCVbVz9lVaks/edit?usp=sharing)
 
-Phần hướng dẫn sẽ ở dư
+Phần hướng dẫn sẽ ở dưới.
 
 ### b. Tự cài đặt
 
