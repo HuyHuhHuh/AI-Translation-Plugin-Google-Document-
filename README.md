@@ -23,9 +23,8 @@ Phần hướng dẫn sẽ ở dư
 
 ### b. Tự cài đặt
 
-Sau khi tạo một 1 Document trong Google Doc, bạn hãy bấm:
+Sau khi tạo một 1 Sheet trong Google Doc, bạn hãy bấm:
 
-![Extension menu](https://drive.google.com/uc?export=view&id=1GorVVeZoQon5xTh41FC3sG6qTx7X0rLs)
 
 Sau đó cài đặt phần source code tôi gửi, ngoài ra nếu muốn nhấn thêm file có thể bấm vào đây:
 
@@ -47,9 +46,8 @@ Cuối cùng chỉ cần bấm **triển khai** là xong:
 
 ### a. Cấp ủy quyền
 
-Khi vào Doc, bạn sẽ thấy plugin hiện ở thanh công cụ:
+Khi vào Sheet, bạn sẽ thấy plugin hiện ở thanh công cụ:
 
-![Plugin in toolbar](https://drive.google.com/uc?export=view&id=11EzUpT9N0wxjBQPDWUTjmpq_oRfWyh5U)
 
 Bấm vào nó, bạn sẽ gặp thông báo sau:
 
