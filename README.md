@@ -7,7 +7,7 @@
 
 ## I. Giới thiệu chung
 
-Đây là 1 add-in trên Google Sheets sẽ cho phép người dùng xử lý dữ liệu bảng tính bằng mô hình AI (Gemini) trực tiếp trong giao diện Google Trang tính.
+Đây là 1 add-in trên Google Sheets sẽ cho phép người dùng xử lý dữ liệu bảng tính bằng mô hình AI (Gemini) trực tiếp trong giao diện Google Trang tính. (Không dùng được hàm Gemini_SUMMARIZE)
 
 ## II. Cài đặt
 
