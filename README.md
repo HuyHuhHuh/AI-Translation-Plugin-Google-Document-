@@ -17,7 +17,7 @@
 
 Có thể vào đường link sao để có thể test tính năng của add-in:
 
-[Google Sheets]((https://docs.google.com/spreadsheets/d/1OQBjOCZEZ-EAeHSiHLpXlE5puu37XR22lyFTejeVOes/edit?usp=sharing))
+[Google Sheets](https://docs.google.com/spreadsheets/d/1OQBjOCZEZ-EAeHSiHLpXlE5puu37XR22lyFTejeVOes/edit?usp=sharing)
 
 Phần hướng dẫn sẽ ở dưới.
 
