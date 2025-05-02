@@ -85,7 +85,7 @@ Ngoài ra, ở tính năng số 3 nếu bạn không chọn Auto có thể chọ
 
 ### c. Ví dụ
 
-#### Dịch Auto:
+#### Dùng Auto:
 
 **Trước**
 
@@ -94,5 +94,15 @@ Ngoài ra, ở tính năng số 3 nếu bạn không chọn Auto có thể chọ
 **Sau**
 
 ![After auto](https://drive.google.com/uc?export=view&id=1iBvr23AZNJU16w3uT1X4xZE2j84P6gnp)
+
+#### Dùng Fixed range:
+
+**Trước**
+
+![Before fixed range](https://drive.google.com/uc?export=view&id=1TPrssZwYOMWd8co6HZBdb4ba__oRJAdc)
+
+**Sau**
+
+![After fixed range](https://drive.google.com/uc?export=view&id=1_knHpPlXwbe7MECh4QlYV0GIKDas2z19)
 
 
