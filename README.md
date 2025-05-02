@@ -85,5 +85,14 @@ Ngoài ra, ở tính năng số 3 nếu bạn không chọn Auto có thể chọ
 
 ### c. Ví dụ
 
+#### Dịch Auto:
+
+**Trước**
+
+![Before auto](https://drive.google.com/uc?export=view&id=1yAUuo8bS2aeWjwL9ApzuZlB9gFIzm11K)
+
+**Sau**
+
+![After auto](https://drive.google.com/uc?export=view&id=1iBvr23AZNJU16w3uT1X4xZE2j84P6gnp)
 
 
