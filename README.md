@@ -1,4 +1,4 @@
-# AI Translation Plugin (Google Document)
+# AI-Powered Calculation Plugin (Google Sheets)
 
 ## Mục lục
 - [I. Giới thiệu chung](#i-giới-thiệu-chung)
@@ -7,7 +7,7 @@
 
 ## I. Giới thiệu chung
 
-Đây là 1 add-in trên Google Document sẽ tự động phát hiện đó là ngôn ngữ gì và cho phép bạn dịch sang ngôn ngữ mà mình muốn, hiện đang hỗ trợ 20 loại ngôn ngữ. Bạn có thể chọn dịch 1 đoạn ngắn hoặc toàn bộ văn bản. Add-in này sử dụng Gemini AI cho phần dịch thuật.
+Đây là 1 add-in trên Google Sheets sẽ cho phép người dùng xử lý dữ liệu bảng tính bằng mô hình AI (Gemini) trực tiếp trong giao diện Google Trang tính.
 
 ## II. Cài đặt
 
@@ -17,7 +17,7 @@
 
 Có thể vào đường link sao để có thể test tính năng của add-in:
 
-[Google Document](https://docs.google.com/document/d/1FAzCk661hdXfR2xU648oQv6LYFZT0vxzCVbVz9lVaks/edit?usp=sharing)
+[Google Sheets]((https://docs.google.com/spreadsheets/d/1OQBjOCZEZ-EAeHSiHLpXlE5puu37XR22lyFTejeVOes/edit?usp=sharing))
 
 Phần hướng dẫn sẽ ở dưới.
 
