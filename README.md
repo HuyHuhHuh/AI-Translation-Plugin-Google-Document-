@@ -49,6 +49,7 @@ Cuối cùng chỉ cần bấm **triển khai** là xong:
 
 Khi vào Sheet, bạn sẽ thấy plugin hiện ở thanh công cụ:
 
+![Plugin in toolbar](https://drive.google.com/uc?export=view&id=1Pj40bZq_ifR0V9IMexF-vVumRDIatDpE)
 
 Bấm vào nó, bạn sẽ gặp thông báo sau:
 
