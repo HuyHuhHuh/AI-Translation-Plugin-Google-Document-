@@ -63,33 +63,8 @@ Hãy bấm vào Đi tới AI Translation Plugin, sau đó bấm **Cho Phép**, t
 
 ### b. Cách sử dụng
 
-![Usage instructions](https://drive.google.com/uc?export=view&id=1SwBtv8ZnsZ4fa9B4doRbvmI9l6GWI3qC)
-
-- **1: Ngôn ngữ bạn muốn dịch sang**
-- **2: Dịch một đoạn văn bản đã tô đen**
-- **3: Dịch toàn bộ văn bản**
-- **4: API key của Gemini, bạn có thể tạo API ở [Google AI Studio](https://aistudio.google.com/app/apikey) hoặc lấy của tôi (*AIzaSyB1bKdXjL76I5POlFr6ySyrTdIOY0gLLNs*)**
-- **5: Lưu API key lại để sử dụng lâu dài**
 
 ### c. Ví dụ
 
-#### Dịch 1 đoạn văn bản:
 
-**Trước**
-
-![Before translation example](https://drive.google.com/uc?export=view&id=1NBuLT2LBhbnbZ7VNx4RcvOVpOFC_dHaQ)
-
-**Sau**
-
-![After translation example](https://drive.google.com/uc?export=view&id=1h3OQZtMeJNwhGVX-cQV4oMp8XTjGp9tV)
-
-#### Dịch toàn bộ văn bản:
-
-**Trước**
-
-![Before full translation](https://drive.google.com/uc?export=view&id=1WGbVobr3EqQBiwynUs9I6fqCfJGGQLlt)
-
-**Sau**
-
-![After full translation](https://drive.google.com/uc?export=view&id=1Pw-t2uB4QkAwENchHzFNEu_2uOFaHfXT)
 
