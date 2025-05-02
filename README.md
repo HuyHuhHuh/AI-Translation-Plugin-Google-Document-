@@ -25,6 +25,7 @@ Phần hướng dẫn sẽ ở dưới.
 
 Sau khi tạo một 1 Sheet trong Google Doc, bạn hãy bấm:
 
+![Extension menu](https://drive.google.com/file/d/1KScNITy-6KlMQ2m3XfotIU1L2TvFIQFy/view?usp=drive_link)
 
 Sau đó cài đặt phần source code tôi gửi, ngoài ra nếu muốn nhấn thêm file có thể bấm vào đây:
 
