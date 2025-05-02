@@ -65,11 +65,23 @@ Hãy bấm vào Đi tới AI Translation Plugin, sau đó bấm **Cho Phép**, t
 
 ![Usage instructions](https://drive.google.com/uc?export=view&id=1eFSS6hRXUMDfMYlH8qYjERcrFn1Sroh0)
 
-- **1: Ngôn ngữ bạn muốn dịch sang**
-- **2: Dịch một đoạn văn bản đã tô đen**
-- **3: Dịch toàn bộ văn bản**
-- **4: API key của Gemini, bạn có thể tạo API ở [Google AI Studio](https://aistudio.google.com/app/apikey) hoặc lấy của tôi (*AIzaSyB1bKdXjL76I5POlFr6ySyrTdIOY0gLLNs*)**
-- **5: Lưu API key lại để sử dụng lâu dài**
+- **1: Hàng Tiêu Đề (Header Row): Trường này cho phép bạn chỉ định hàng nào chứa tiêu đề cột của bảng tính. Giá trị mặc định là 1, có nghĩa là hàng đầu tiên của bảng tính chứa các tiêu đề.**
+- **2:Lựa Chọn Hàng Bắt Đầu (Start Row Selection): Tùy chọn này cho phép bạn chọn cách xác định hàng bắt đầu xử lý. Đang chọn "Auto" (Tự động), nghĩa là hệ thống sẽ tự động bắt đầu xử lý từ hàng ngay sau hàng tiêu đề**
+- **3: Số Hàng Cần Xử Lý (Number of Rows to Process): Khi sử dụng chế độ Auto, trường này xác định số hàng sẽ được xử lý. Hiện tại đang đặt là 3, vậy hệ thống sẽ xử lý 3 hàng bắt đầu từ hàng sau hàng tiêu đề**
+- **4: Xác định cột nào sẽ chứa kết quả do AI tạo ra.**
+- **5: Mẫu Lệnh (Prompt Template): Đây là nơi bạn định nghĩa điều bạn muốn AI thực hiện với dữ liệu của mình. Bạn có thể sử dụng cú pháp {{A}} để tham chiếu đến giá trị từ các cột cụ thể**
+- **6: Temperature: Điều chỉnh mức độ sáng tạo/ngẫu nhiên trong câu trả lời của AI. Thanh trượt hiện tại đặt ở mức 0.3, cung cấp câu trả lời tương đối nhất quán nhưng vẫn có một chút biến đổi. Giá trị cao hơn (gần 1.0) tạo ra câu trả lời sáng tạo hơn nhưng có thể ít nhất quán hơn**
+- **7: Mô Hình (Model): Cho phép bạn chọn mô hình AI để sử dụng. Hiện tại đang cài đặt có thể cài đặt "Gemini 1.5 Pro" và "Gemini 1.5 Flash", đây là các mô hình ngôn ngữ tiên tiến của Google dành cho các tác vụ phức tạp**
+- **8: Xử Lý Dữ Liệu (Process Data): Sau khi đã cấu hình tất cả các cài đặt, nhấn nút này sẽ bắt đầu xử lý dữ liệu bảng tính của bạn bằng AI Gemini theo thông số bạn đã chỉ định**
+
+Ngoài ra, ở tính năng số 3 nếu bạn không chọn Auto có thể chọn Fixed range:
+
+![Usage instructions 2](https://drive.google.com/uc?export=view&id=1K5IRXs-LvP8a7fa3ksVZtBqau6jaya1G)
+
+- **1: Lựa Chọn Hàng Bắt Đầu (Start Row Selection): Khác với hình trước, giờ đây tùy chọn này đã được chuyển sang "Fixed range" (Phạm vi cố định). Điều này có nghĩa là bạn sẽ tự chỉ định chính xác hàng bắt đầu và kết thúc mà không để hệ thống tự động xác định.**
+- **2: Lựa Chọn Hàng Bắt Đầu (Start Row Selection): Hàng Bắt Đầu (Start Row): Đây là nơi bạn xác định chính xác hàng nào sẽ là hàng đầu tiên để xử lý.**
+- **3: Hàng Kết Thúc (End Row): Đây là nơi bạn xác định hàng cuối cùng sẽ được xử lý.**
+
 
 ### c. Ví dụ
 
